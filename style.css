@@ -15,11 +15,13 @@ body{
     color: white;
     padding: 10px;
     font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
 }
 
 .sub-heading{
     text-align: center;
     margin-top: 40px;
+    font-size: 30px;
 }
 
 .main-container{
@@ -49,9 +51,9 @@ body{
     padding: 10px;
     border-radius: 5px;
 }
-/* this is for the recipes heading */
+/* this is for the recipes navbar */
 
-.back{
+.nav-container{
     background-color: rgb(41, 41, 36);
     /* text-align: center; */
     display: flex;
@@ -62,14 +64,14 @@ body{
     font-family: 'Times New Roman', Times, serif;
     
 }
-.dishes-heading{
+.nav-praragraph{
     font-size: large;
 }
-.back-anchor{
+.nav-anchor{
     color: white;
     text-decoration: none;
 }
-.back-anchor:hover{
+.nav-anchor:hover{
     color: rgb(95, 51, 51);
     font-weight: 800;
     
@@ -77,7 +79,7 @@ body{
 
 
 /* This is the Style.css used for the recipes html files */
-.dishes-main-section{
+.main-section{
 background-color: rgb(201, 201, 191, 0.5);
 width: 60%;
 height: auto;
@@ -90,38 +92,42 @@ border-radius: 15px;
 box-shadow: 1px 5px 7px 0.1px  rgb(2, 1, 1, 0.1);
     
 }
-.dishes-main-heading{
+.recipe-main-heading{
 text-align: center;
 padding-top: 20px;
 padding-bottom: 20px;
+font-size: 35px;
 }
 
-.dishes-img{
+.recipe-img{
 height: auto;
 width: 100%;
 border-radius: inherit;
 
 }
 
-.dishes-subtitles{
+.recipe-subtitles{
 text-align: center;
 padding: 20px;
+font-size: 30px;
 }
 
 
-.dishes-container1{
+.recipe-container1{
     padding: 20px;
 
 }
-.dishes-container2{
+.recipe-container2{
     padding: 20px;
     
 }
 
-.dishes-list{
+.recipe-list{
     padding: 5px;
+    font-size: 20px;
 }
 
-.dishes-paragraph{
+.recipe-paragraph{
     padding-bottom: 20px;
+    font-size: 20px;
 }

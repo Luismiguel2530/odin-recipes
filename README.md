@@ -9,3 +9,7 @@ Multiple pages (.html) were added to the main index.html with information regard
 # working-on-recipe styling with CSS
 
 I have added style to every file on the Odin-recipes project as instructed. I have used the knowledge acquired on this course plus outside references and documentations. 
+
+# Correcting font size and adding missing containors
+
+I increased the font size and added missing dishes-containor1 and dishes containor2 to Alfredo and romantic files. 
